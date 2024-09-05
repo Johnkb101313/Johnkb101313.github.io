@@ -1,10 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SF6 ED 筆記]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>SF6 ED 筆記</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 05 Sep 2024 14:37:28 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Sep 2024 14:37:27 GMT</pubDate><copyright><![CDATA[Johnkb]]></copyright><ttl>60</ttl><dc:creator>Johnkb</dc:creator><item><title><![CDATA[首頁]]></title><description><![CDATA[ 
- <br><br>請使用左邊的Side bar作為瀏覽該筆記主要方式<br>筆記格式:<br>
-通常以以下方式展示連段<br><br>
-<br>Combo前面有顏色的數字是代表這個Combo用了多少格鬥氣, 留意: 展示的鬥氣並不把前置動作計算在內, 如回擊DI連段並不會把DI用的氣計算在內, 去看<a data-href="Drive Impact" href="ed\連段\drive-impact.html" class="internal-link" target="_self" rel="noopener">Drive Impact</a>這頁就會明白
-<br>Dmg這列就是Combo的傷害
-<br>Description這列就是關於該Combo的一些資訊, 例如常有的打完Combo的有利幀這些, 而且通常都會有超連結給你點去看該Combo要怎麼去壓起身
-<br><br>]]></description><link>ed\index.html</link><guid isPermaLink="false">ed/index.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Thu, 05 Sep 2024 14:37:14 GMT</pubDate></item><item><title><![CDATA[236K]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SF6 ED 筆記]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>SF6 ED 筆記</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 05 Sep 2024 14:56:17 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 05 Sep 2024 14:56:14 GMT</pubDate><copyright><![CDATA[Johnkb]]></copyright><ttl>60</ttl><dc:creator>Johnkb</dc:creator><item><title><![CDATA[236K]]></title><description><![CDATA[ 
  <br><br>最快但最短<br><br>最遠但最慢<br><br>對空 &amp; Combo<br><br>可以當係輕版的蓄力版]]></description><link>ed\必殺\236k.html</link><guid isPermaLink="false">ed/必殺/236K.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Mon, 26 Aug 2024 09:02:07 GMT</pubDate></item><item><title><![CDATA[2HK]]></title><description><![CDATA[ 
  <br>遠距離可取消的拳腳<br>
 可取消 236LK poke]]></description><link>ed\拳腳\2hk.html</link><guid isPermaLink="false">ed/拳腳/2HK.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Mon, 26 Aug 2024 08:47:05 GMT</pubDate></item><item><title><![CDATA[2MK]]></title><description><![CDATA[ 
@@ -101,4 +95,10 @@ LP &gt; DI, 偷DI<br>
 2HK &gt; HP, HP 可以偷2F, 打中+7, 打防+0<br><br>版邊<br>
 LK &gt; 236P, 波動貼身壓起, 打中+12, 打防+4<br>
 投消費 &gt; HP, HP 可以偷多3F, 打中+8, 打防+1<br><br>JHP &gt; HK]]></description><link>ed\壓起.html</link><guid isPermaLink="false">ed/壓起.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Tue, 03 Sep 2024 05:24:18 GMT</pubDate></item><item><title><![CDATA[技巧]]></title><description><![CDATA[ 
- <br>用MK &gt; 236LK兩點確認帶SA3]]></description><link>ed\技巧.html</link><guid isPermaLink="false">ed/技巧.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Mon, 02 Sep 2024 09:21:15 GMT</pubDate></item></channel></rss>
+ <br>用MK &gt; 236LK兩點確認帶SA3]]></description><link>ed\技巧.html</link><guid isPermaLink="false">ed/技巧.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Mon, 02 Sep 2024 09:21:15 GMT</pubDate></item><item><title><![CDATA[首頁]]></title><description><![CDATA[ 
+ <br><br>請使用左邊的Side bar作為瀏覽該筆記主要方式<br>筆記格式:<br>
+通常以以下方式展示連段<br><br>
+<br>Combo前面有顏色的數字是代表這個Combo用了多少格鬥氣, 留意: 展示的鬥氣並不把前置動作計算在內, 如回擊DI連段並不會把DI用的氣計算在內, 去看<a data-href="Drive Impact" href="ed\連段\drive-impact.html" class="internal-link" target="_self" rel="noopener">Drive Impact</a>這頁就會明白
+<br>Dmg這列就是Combo的傷害
+<br>Description這列就是關於該Combo的一些資訊, 例如常有的打完Combo的有利幀這些, 而且通常都會有超連結給你點去看該Combo要怎麼去壓起身
+<br><br>]]></description><link>ed\index.html</link><guid isPermaLink="false">ed/index.md</guid><dc:creator><![CDATA[Johnkb]]></dc:creator><pubDate>Thu, 05 Sep 2024 14:37:14 GMT</pubDate></item></channel></rss>
